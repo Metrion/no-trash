@@ -1,0 +1,4 @@
+road map
+
+- Progressbar
+- Vergleich auf Aehnlichkeit (Audio)
