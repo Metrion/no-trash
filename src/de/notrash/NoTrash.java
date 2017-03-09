@@ -1,4 +1,4 @@
-package de.markware.notrash;
+package de.notrash;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -18,7 +18,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-import de.markware.toolbox.utils.MMIO;
+import de.notrash.util.MMIO;
 
 public class NoTrash {
 	private static final int NTHREDS = 10;

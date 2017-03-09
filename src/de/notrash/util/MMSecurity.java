@@ -1,4 +1,4 @@
-package de.markware.toolbox.utils;
+package de.notrash.util;
 
 import java.io.File;
 import java.io.FileInputStream;

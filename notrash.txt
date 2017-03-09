@@ -1,0 +1,8 @@
+Start: 2017-03-09 08:50:16,637
+Thu Mar 09 08:50:17 CET 2017--
+C:\temp\14-06_boso_medicus_vital - Kopie.pdf
+C:\temp\14-06_boso_medicus_vital.pdf
+--
+End: 2017-03-09 08:50:17,064
+Duration [s]: 7
+

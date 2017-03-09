@@ -1,4 +1,4 @@
-package de.markware.notrash;
+package de.notrash;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;

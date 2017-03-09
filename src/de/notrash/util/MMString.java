@@ -1,4 +1,4 @@
-package de.markware.toolbox.utils;
+package de.notrash.util;
 
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
